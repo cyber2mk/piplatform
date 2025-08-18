@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.prisma/
+.env
+.env.*
+/shared/
+logs/
+*.log
+npm-debug.log*
+yarn-error.log*
